@@ -19,7 +19,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("===== Basic Java Program =====");
-
         // Input name
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
