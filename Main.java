@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("===== Basic Java Program =====");
         // Input name
-        System.out.print("Enter your name: ");
+        System.out.print("Enter your name: "); 
         String name = sc.nextLine();
         System.out.println("Hello, " + name + "!");
 
